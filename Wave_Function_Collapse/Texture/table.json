@@ -1,0 +1,72 @@
+{
+    "grass":{
+        "texture" : [{"row":0, "column":5}, {"row":1, "column":5}],
+        "edgeType" : ["grass", "grass", "grass", "grass"],
+        "weight" : 100
+    },
+    "coastal_1":{
+        "texture" : [{"row":0, "column":2}],
+        "edgeType" : ["grass", "coastal_R", "coastal_L", "grass"],
+        "weight" : 1
+    },
+    "coastal_2":{
+        "texture" : [{"row":0, "column":3}],
+        "edgeType" : ["grass", "coastal_R", "sea", "coastal_L"],
+        "weight" : 1
+    },
+    "coastal_3":{
+        "texture" : [{"row":0, "column":4}],
+        "edgeType" : ["grass", "grass", "coastal_R", "coastal_L"],
+        "weight" : 1
+    },
+    "coastal_4":{
+        "texture" : [{"row":1, "column":4}],
+        "edgeType" : ["coastal_L", "grass", "coastal_R", "sea"],
+        "weight" : 1
+    },
+    "coastal_5":{
+        "texture" : [{"row":2, "column":4}],
+        "edgeType" : ["coastal_L", "grass", "grass", "coastal_R"],
+        "weight" : 1
+    },
+    "coastal_6":{
+        "texture" : [{"row":2, "column":3}],
+        "edgeType" : ["sea", "coastal_L", "grass", "coastal_R"],
+        "weight" : 1
+    },
+    "coastal_7":{
+        "texture" : [{"row":2, "column":2}],
+        "edgeType" : ["coastal_R", "coastal_L", "grass", "grass"],
+        "weight" : 1
+    },
+    "coastal_8":{
+        "texture" : [{"row":1, "column":2}],
+        "edgeType" : ["coastal_R", "sea", "coastal_L", "grass"],
+        "weight" : 1
+    },
+    "coastal_9":{
+        "texture" : [{"row":1, "column":0}],
+        "edgeType" : ["sea", "coastal_L", "coastal_R", "sea"],
+        "weight" : 1
+    },
+    "coastal_10":{
+        "texture" : [{"row":1, "column":1}],
+        "edgeType" : ["sea", "sea", "coastal_L", "coastal_R"],
+        "weight" : 1
+    },
+    "coastal_11":{
+        "texture" : [{"row":2, "column":0}],
+        "edgeType" : ["coastal_L", "coastal_R", "sea", "sea"],
+        "weight" : 1
+    },
+    "coastal_12":{
+        "texture" : [{"row":2, "column":1}],
+        "edgeType" : ["coastal_R", "sea", "sea", "coastal_L"],
+        "weight" : 1
+    },
+    "sea":{
+        "texture" : [{"row":0, "column":0}, {"row":0, "column":1}],
+        "edgeType" : ["sea", "sea", "sea", "sea"],
+        "weight" : 1
+    }
+}
