@@ -24,6 +24,13 @@
 | --                                                                   | X --> F[+X]F[-X]+X                                                     | Y --> +FXFX-YF-YF+FX+FXYF+FX-YFYF-FX-YF+FXYFYF-FX-YFFX+FX+YF-YF-FX+FX+YFY |
 ## 1.3. 參考資料
 > [1] [Paul Bourke. L-System User Notes](http://paulbourke.net/fractals/lsys/)  
-> [2] [實作 L-system](https://openhome.cc/Gossip/P5JS/Lsystem.html)
-> 
-# 2. Fractals
+> [2] [實作 L-system](https://openhome.cc/Gossip/P5JS/Lsystem.html)  
+
+# 2. Wave Function Collapse  
+## 2.2. 運行結果  
+<img src="https://i.imgur.com/741k9KB.gif" width="300" height="300" />  
+## 2.3. 參考資料  
+> [1] [Roguelike/RPG pack](https://www.kenney.nl/assets/roguelike-rpg-pack)   
+> [2] [Martin Donald. Superpositions, Sudoku, the Wave Function Collapse algorithm.](https://www.youtube.com/watch?v=2SuvO4Gi7uY&ab_channel=MartinDonald)
+
+# 3. Fractals  
