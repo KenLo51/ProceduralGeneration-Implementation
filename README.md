@@ -1,12 +1,20 @@
 # Python-ProceduralGeneration-Implementation
 
 # 1. L System
+## 各符號定義
+| 符號 | 說明 |
+| :-: | :- |
+| F | 向前移動並繪製線段 |
+| f | 向前移動且不繪製線段 |
+| + | 左轉ø度 |
+| - | 右轉ø度 |
+| | | 迴轉(180度) |
+| [ | 將目前位置與方向存入堆疊 |
+| ] | 從堆疊中取出位置與方向 |
+| # | 增加未來將繪製線段粗細 |
+| ! | 漸少未來將繪製線段粗細 |
 
 ## 運行結果
-Axiom : F+F+F+F <br>
-F --> F+F-F-FF+F+F-F <br>
-ø = 90 <br>
-
 | 1.                                                                   | 2.                                                                     | 3.Quadratic Gosper     |
 | :-----                                                               | :-----                                                                 | :----- |
 |<img src="https://i.imgur.com/741k9KB.gif" width="300" height="300" />| <img src="https://i.imgur.com/R3Geuaw.gif" width="300" height="300" /> | <img src="https://i.imgur.com/mrg5yzQ.gif" width="300" height="300" /> |
