@@ -23,7 +23,7 @@
 | F --> F+F-F-FF+F+F-F                                                 | F --> FF                                                               | X --> XFX-YF-YF+FX+FX-YF-YFFX+YF+FXFXYF-FX+YF+FXFX+YF-FXYF-YF-FX+FX+YFYF- |
 | --                                                                   | X --> F[+X]F[-X]+X                                                     | Y --> +FXFX-YF-YF+FX+FXYF+FX-YFYF-FX-YF+FXYFYF-FX-YFFX+FX+YF-YF-FX+FX+YFY |
 ## 參考資料
-> [Paul Bourke. L-System User Notes](http://paulbourke.net/fractals/lsys/)
+> [Paul Bourke. L-System User Notes](http://paulbourke.net/fractals/lsys/)  
 > [實作 L-system](https://openhome.cc/Gossip/P5JS/Lsystem.html)
 > 
 # 2. Fractals
