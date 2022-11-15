@@ -39,3 +39,5 @@ progress result :
 > [3] [Martin Donald. Superpositions, Sudoku, the Wave Function Collapse algorithm.](https://www.youtube.com/watch?v=2SuvO4Gi7uY&ab_channel=MartinDonald)  
 
 # 3. Fractals  
+# 4. Perlin Noise  
+# 5. Worley Noise  
