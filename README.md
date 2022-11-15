@@ -34,8 +34,8 @@ progress result :
 [<img src="https://i.imgur.com/ANwduBv.gif" width="300" height="300"/>](https://imgur.com/Y6ITcXB)  
 
 ## 2.3. 參考資料  
-> [1] [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
+> [1] [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)  
 > [2] [Roguelike/RPG pack](https://www.kenney.nl/assets/roguelike-rpg-pack)   
-> [3] [Martin Donald. Superpositions, Sudoku, the Wave Function Collapse algorithm.](https://www.youtube.com/watch?v=2SuvO4Gi7uY&ab_channel=MartinDonald)
+> [3] [Martin Donald. Superpositions, Sudoku, the Wave Function Collapse algorithm.](https://www.youtube.com/watch?v=2SuvO4Gi7uY&ab_channel=MartinDonald)  
 
 # 3. Fractals  
