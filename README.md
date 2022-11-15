@@ -1,6 +1,7 @@
 # Python-ProceduralGeneration-Implementation
 
 # 1. L System
+以固定公理(Axiom)繪製圖形，並限制遞迴深度執行其餘規則。
 ## 1.1. 各符號定義
 | 符號 | 說明 |
 | :-: | :- |
@@ -26,7 +27,10 @@
 > [1] [Paul Bourke. L-System User Notes](http://paulbourke.net/fractals/lsys/)  
 > [2] [實作 L-system](https://openhome.cc/Gossip/P5JS/Lsystem.html)  
 
-# 2. Wave Function Collapse  
+# 2. Wave Function Collapse 
+初始於任一位置隨機選取一可用pattern。
+接著在每次放置新pattern後，依據此pattern可接受邊界更新剩餘尚未決定pattern位置的可能pattern集合。
+每次更新後若有任一位置的可能pattern集合為空則須回復動作，並將先前決定的一pattern踢出其位置中的集合。
 ## 2.2. 運行結果  
 patterns :  
 ![](https://i.imgur.com/3Vbmikm.png)  
