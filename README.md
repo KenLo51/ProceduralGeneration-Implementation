@@ -1,5 +1,5 @@
 # Python-ProceduralGeneration-Implementation
-
+  
 # 1. L System
 以固定公理(Axiom)繪製圖形，並限制遞迴深度執行其餘規則。
 ## 1.1. 各符號定義
@@ -44,12 +44,18 @@ progress result :
 
 # 3. Fractals  
 # 4. Perlin Noise  
-使亂數平滑，當t代入亂數函數時應與t-1、t+1相關。  
+使亂數平滑，當x代入亂數函數時應與x-1、x+1相關。  
+使用6t<sup>5</sup>-15t<sup>4</sup>+10<sup>3</sup>計算內插，其中因微分後於兩端(t=0 or 1)為0使其變化連續。  
+  
+計算1維Perlin Noise如下:  
+w = 6t<sup>5</sup>-15t<sup>4</sup>+10<sup>3</sup>  
+Noise(x) = (t)\*(1-w)\*y<sub>0</sub> + (1-t)\*(w)\*y<sub>1</sub>  
+<img src="https://i.imgur.com/b8C8au4.png"/>  
 ## 4.2. 運行結果  
 1D Perlin Noise with 1 and 2 octaves :  
-<img src="https://i.imgur.com/DNd16b2.png" width="300" height="300" />  
+<img src="https://i.imgur.com/VD1WELA.png" width="320" height="240" />  
 2D Perlin Noise :  
-
+<img src="https://i.imgur.com/8xB6bh6.png" width="320" height="240" />  
 ## 4.3. 參考資料  
 > [1] [I.5: Perlin Noise - The Nature of Code](https://www.youtube.com/watch?v=8ZEMLCnn8v0&ab_channel=TheCodingTrain)  
 > [2] [柏林噪聲(Perlin Noise): (科普)創造亂中有序大自然的魔法](https://www.youtube.com/watch?v=NqqIT_-xJls&ab_channel=%E5%B0%8F%E5%93%88%E7%89%87%E5%88%BB)  
