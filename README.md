@@ -64,3 +64,4 @@ Noise(x) = (t)\*(1-w)\*y<sub>0</sub> + (1-t)\*(w)\*y<sub>1</sub>
 
 ## 5.1. 運行結果  
 <img src="https://i.imgur.com/w0p9PDX.png" width="320" height="240" />  
+Worley Noise 
