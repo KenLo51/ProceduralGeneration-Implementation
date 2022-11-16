@@ -40,7 +40,7 @@ progress result :
 ## 2.2. 參考資料  
 > [1] [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)  
 > [2] [Roguelike/RPG pack](https://www.kenney.nl/assets/roguelike-rpg-pack)   
-> [3] [Martin Donald. Superpositions, Sudoku, the Wave Function Collapse algorithm.](https://www.youtube.com/watch?v=2SuvO4Gi7uY&ab_channel=MartinDonald)  
+> [3] [Martin Donald. Superpositions, Sudoku, the Wave Function Collapse algorithm.](https://youtu.be/2SuvO4Gi7uY)  
 
 # 3. Fractals  
 # 4. Perlin Noise  
@@ -56,12 +56,14 @@ Noise(x) = (t)\*(1-w)\*y<sub>0</sub> + (1-t)\*(w)\*y<sub>1</sub>
 | :- | :- | :- |
 | <img src="https://i.imgur.com/VD1WELA.png" width="320" height="240" /> | <img src="https://i.imgur.com/8xB6bh6.png" width="320" height="240" /> | <img src="https://i.imgur.com/RGsVfSM.gif" width="320" height="240" /> |  
 ## 4.2. 參考資料  
-> [1] [I.5: Perlin Noise - The Nature of Code](https://www.youtube.com/watch?v=8ZEMLCnn8v0&ab_channel=TheCodingTrain)  
-> [2] [柏林噪聲(Perlin Noise): (科普)創造亂中有序大自然的魔法](https://www.youtube.com/watch?v=NqqIT_-xJls&ab_channel=%E5%B0%8F%E5%93%88%E7%89%87%E5%88%BB)  
+> [1] [I.5: Perlin Noise - The Nature of Code](https://youtu.be/8ZEMLCnn8v0)  
+> [2] [柏林噪聲(Perlin Noise): (科普)創造亂中有序大自然的魔法](https://youtu.be/NqqIT_-xJls)  
 > [3] [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)  
 > [4] [Perlin噪聲](https://zh.m.wikipedia.org/zh-tw/Perlin%E5%99%AA%E5%A3%B0)
 # 5. Worley Noise
 
 ## 5.1. 運行結果  
 <img src="https://i.imgur.com/w0p9PDX.png" width="320" height="240" />  
-Worley Noise with 10 random points
+Worley Noise with 10 random points  
+## 5.2. 參考資料  
+> [1] [Coding Adventure: Clouds](https://youtu.be/4QOcCGI6xOU)  
