@@ -52,9 +52,9 @@ w = 6t<sup>5</sup>-15t<sup>4</sup>+10<sup>3</sup>
 Noise(x) = (t)\*(1-w)\*y<sub>0</sub> + (1-t)\*(w)\*y<sub>1</sub>  
 <img src="https://i.imgur.com/b8C8au4.png"/>  
 ## 4.2. 運行結果 
-| 1. 1D Perlin Noise with 1 and 2 octaves | 2. 2D Perlin Noise |
-| :- | :- |
-| <img src="https://i.imgur.com/VD1WELA.png" width="320" height="240" /> |<img src="https://i.imgur.com/8xB6bh6.png" width="320" height="240" /> |  
+| 1. 1D Perlin Noise with 1 and 2 octaves | 2. 2D Perlin Noise | 3. 3D Perlin Noise |
+| :- | :- | :- |
+| <img src="https://i.imgur.com/VD1WELA.png" width="320" height="240" /> | <img src="https://i.imgur.com/8xB6bh6.png" width="320" height="240" /> | <img src="https://i.imgur.com/RGsVfSM.gif" width="320" height="240" /> |  
 ## 4.3. 參考資料  
 > [1] [I.5: Perlin Noise - The Nature of Code](https://www.youtube.com/watch?v=8ZEMLCnn8v0&ab_channel=TheCodingTrain)  
 > [2] [柏林噪聲(Perlin Noise): (科普)創造亂中有序大自然的魔法](https://www.youtube.com/watch?v=NqqIT_-xJls&ab_channel=%E5%B0%8F%E5%93%88%E7%89%87%E5%88%BB)  
