@@ -65,9 +65,9 @@ Noise(x) = (t)\*(1-w)\*y<sub>0</sub> + (1-t)\*(w)\*y<sub>1</sub>
 > [2] [柏林噪聲(Perlin Noise): (科普)創造亂中有序大自然的魔法](https://youtu.be/NqqIT_-xJls)  
 > [3] [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)  
 > [4] [Perlin噪聲](https://zh.m.wikipedia.org/zh-tw/Perlin%E5%99%AA%E5%A3%B0)
-> 
+  
 # 5. Worley Noise
-
+於空間中隨機放置數個點，每點數值依據其與最近隨機放置點的距離決定。  
 ## 5.1. 運行結果  
 <img src="https://i.imgur.com/w0p9PDX.png" width="320" height="240" />  
 Worley Noise with 10 random points  
