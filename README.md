@@ -1,4 +1,4 @@
-# Python-ProceduralGeneration-Implementation
+# ProceduralGeneration-Implementation
   
 # 1. L System
 以固定公理(Axiom)繪製圖形，並限制遞迴深度執行其餘規則。
