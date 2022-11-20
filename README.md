@@ -74,7 +74,7 @@ Worley Noise with 10 random points
 
 ## 5.2. 應用  
 ### 5.2.1 Volumetric Cloud
-使用Worley Noise與Perlin Noise製作隨機分布雲朵。  
+使用Worley Noise與Perlin Noise製作隨機分布體積雲。  
 <img src="https://i.imgur.com/kwRM7Wa.png" width="400" height="233" /> <img src="https://i.imgur.com/ScDVJBv.png" width="400" height="233" />  
 ## 5.3. 參考資料  
 > [1] [Coding Adventure: Clouds](https://youtu.be/4QOcCGI6xOU)  
