@@ -25,7 +25,7 @@
 | F --> F+F-F-FF+F+F-F                                                 | F --> FF                                                               | X --> XFX-YF-YF+FX+FX-YF-YFFX+YF+FXFXYF-FX+YF+FXFX+YF-FXYF-YF-FX+FX+YFYF- |
 | --                                                                   | X --> F[+X]F[-X]+X                                                     | Y --> +FXFX-YF-YF+FX+FXYF+FX-YFYF-FX-YF+FXYFYF-FX-YFFX+FX+YF-YF-FX+FX+YFY |
   
-<img src="https://i.imgur.com/Vplz1ah.png" width="300" height="300" />
+<img src="https://i.imgur.com/Vplz1ah.png" width="300" height="156" />
 3D L-System
 
 ## 1.3. 參考資料
